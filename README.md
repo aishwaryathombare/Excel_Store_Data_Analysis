@@ -1,4 +1,4 @@
-# Excel Vrinda Store Data Analysis Project
+# Vrinda Store Data Analysis Project
 
 This repository offers a detailed analysis of sales and customer data to help Vrinda Store improve its strategies and boost performance. Check out the insights and findings!
 
