@@ -38,4 +38,5 @@ The main goal of this project is to find useful insights from the data to:
 - **Excel**: For data analysis and visualization.
 - **PowerPoint**: For presenting insights and conclusions.
 
-## Visulization
+## Visualization
+https://github.com/aishwaryathombare/Excel_Store_Data_Analysis/blob/main/Excel_Dashboard.PNG
